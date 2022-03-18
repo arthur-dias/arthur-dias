@@ -1,13 +1,11 @@
-### Hi there 👋
+### Olá 👋
 
-I am Arthur, a Web developer located in the Brazilian farthest south state, Rio Grande do Sul. Currently working on Reweb, an marketing agency specialized on lead generation and foccused on the automotive industry all over Latin America.
+Meu nome é Arthur e eu sou um web developer brasileiro, atualmente morando no Rio Grande do Sul. Minha linguagem preferida é JavaScript, e atualmente trabalho com [React]("https://github.com/facebook/react/") e [Next.js]("https://github.com/vercel/next.js").
 
-I'm also studying System Analysis and Development at UNIFTEC, wich I expect to finish at 2023's first semester.
+Também estou cursando Análise e Desenvolvimento de Sistemas e me formarei em 2023.
 
-- 🔭 I’m currently working on Reweb.
-- 🌱 I’m currently learning React & Nextjs
-- 👯 I’m looking to collaborate on web projects
-- 💬 Ask me about life in Brazil, Sport Club Internacional and NBA
-- 📫 How to reach me: dias.arthurr@gmail.com
+- 🔭 Desenvolvedor Front-end Jr na Reweb
+- 🌱 Aprendendo React e Nextjs
+- 📫 Contato: dias.arthurr@gmail.com
 
-You can also check my portfolio at: https://arthur-dev.vercel.app/
+Portfolio: https://arthur-dev.vercel.app/
