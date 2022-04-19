@@ -4,7 +4,7 @@ Meu nome é Arthur e eu sou um web developer brasileiro, atualmente morando no R
 
 Também estou cursando Análise e Desenvolvimento de Sistemas e me formarei em 2023.
 
-- 🔭 Desenvolvedor Front-end Jr na Reweb
+- 🔭 Desenvolvedor Front-end Jr na [Letras]("https://www.letras.mus.br/")
 - 🌱 Aprendendo React e Nextjs
 - 📫 Contato: dias.arthurr@gmail.com
 
